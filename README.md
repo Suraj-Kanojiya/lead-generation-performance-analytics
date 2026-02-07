@@ -1,7 +1,3 @@
-# LeadGen Performance Analytics
-
-An end-to-end **Business Development performance analytics** case study based on a real Data Analyst skills assessment.
-
 ## Objective
 Analyze lead generation data, answer business-driven questions, and provide actionable insights using dashboards and predictive analysis.
 This project was completed as part of a **Data Analyst skills assessment** asked by recruiter from Antarctica Global - The Windows
